@@ -91,7 +91,7 @@ $value = $select->fetch();
                     <?php } ?>
                     <br>
                     <label class="mt-2">Cover baru</label>
-                    <input class="form-control" type="file" id="cover" name="cover" required>
+                    <input class="form-control" type="file" id="cover" name="cover">
                 </div>
                 <div class=" form-group">
                     <label>Tahun terbit</label>
